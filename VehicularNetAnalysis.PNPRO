@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- This project file has been saved by the New GreatSPN Editor, v.100 --><project name="PetrinetTest1" version="121">
-  <gspn name="PT" show-color-cmd="false" show-timed-cmd="false" view-rates="false" zoom="75">
+  <gspn name="Example" show-color-cmd="false" show-timed-cmd="false" view-rates="false" zoom="75">
     <nodes>
       <place marking="50" name="P0" x="6.0" y="16.0"/>
       <place name="P1" x="22.0" y="7.0"/>
@@ -71,7 +71,7 @@
       <arc head="P1" kind="OUTPUT" tail="T18"/>
     </edges>
   </gspn>
-  <measures gspn-name="localleft" log-uuid="de8ab441-19dc-448b-b217-04a270d2c2b3" name="Measures" simplified-UI="false">
+  <measures gspn-name="localleft" log-uuid="de8ab441-19dc-448b-b217-04a270d2c2b3" name="DistributionAnalysis" simplified-UI="false">
     <assignments/>
     <greatspn approx="1" confidence="CONF_99" epsilon="1.0e-4" max-batch="5000" max-iters="1000000" min-batch="5000" mode="SWN_ORD_SIMUL" seed="7536" use-batch-constraints="true" use-seed="true"/>
     <formulas>
@@ -82,14 +82,6 @@
           </all-measures>
         </result-table>
       </formula>
-    </formulas>
-  </measures>
-  <measures gspn-name="PT" name="CTL model checking of PT" rapid-type="CTL_MODEL_CHECKING" simplified-UI="true">
-    <assignments/>
-    <rgmedd2 counter-examples="true"/>
-    <formulas>
-      <formula language="STAT"/>
-      <formula comment="CTL formula" expr="E( #P0==0 U #P1!=0 )" language="CTL"/>
     </formulas>
   </measures>
   <gspn name="DistanceExample">
@@ -153,7 +145,7 @@
       <arc head="P0" kind="OUTPUT" tail="T6"/>
     </edges>
   </gspn>
-  <gspn name="Rightside" zoom="75">
+  <gspn name="Acacias" zoom="75">
     <nodes>
       <place name="P30" x="90.0" y="20.0"/>
       <place name="P11" x="90.0" y="10.0"/>
@@ -618,7 +610,7 @@
       <arc head="P18f" kind="OUTPUT" tail="T86"/>
     </edges>
   </gspn>
-  <gspn name="pt6places" show-color-cmd="false" show-fluid-cmd="false" show-timed-cmd="false" view-rates="false" zoom="75">
+  <gspn name="3plcomplete" show-color-cmd="false" show-fluid-cmd="false" show-timed-cmd="false" view-rates="false" zoom="75">
     <nodes>
       <place marking="1" name="P0" x="12.0" y="10.0"/>
       <place name="P1" x="45.0" y="10.0"/>
@@ -1140,7 +1132,7 @@
       <arc head="Poutright" kind="OUTPUT" tail="T64"/>
     </edges>
   </gspn>
-  <gspn name="7places" zoom="75">
+  <gspn name="7plcomplete" zoom="75">
     <nodes>
       <place marking="1" name="P0" x="10.0" y="35.0"/>
       <place name="P1" x="74.0" y="7.0"/>
