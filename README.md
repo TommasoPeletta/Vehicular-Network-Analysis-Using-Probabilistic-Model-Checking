@@ -3,7 +3,7 @@
 Tommaso Peletta
 Jonathan Lo
 
-Read xx for more information about the project
+Read *Vehicular_Network_Analysis_using_probabilistic_model_checking.pdf* for more information about the project
 
 # Prerequisites
 
