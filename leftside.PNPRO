@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- This project file has been saved by the New GreatSPN Editor, v.100 --><project name="leftside" version="121">
+  <gspn name="PetriNet" zoom="50">
+    <nodes>
+      <place name="P0" x="1.0" y="59.0"/>
+      <place name="P1f" x="12.0" y="73.0"/>
+      <place name="P1b" x="12.0" y="86.0"/>
+      <place name="P2f" x="12.0" y="59.0"/>
+      <transition delay="4" name="T0" nservers-x="0.5" type="EXP" x="6.55" y="71.0"/>
+      <place name="P3f" x="12.0" y="44.0"/>
+      <transition delay="4" name="T1" nservers-x="0.5" type="EXP" x="6.55" y="59.0"/>
+      <transition delay="4" name="T2" nservers-x="0.5" type="EXP" x="6.55" y="44.0"/>
+      <transition delay="12" name="T3" nservers-x="0.5" type="EXP" x="6.55" y="81.0"/>
+      <transition delay="6" name="T4" nservers-x="0.5" type="EXP" x="18.55" y="80.0"/>
+      <transition delay="6" name="T5" nservers-x="0.5" type="EXP" x="18.55" y="76.0"/>
+      <place name="P2b" x="12.0" y="68.0"/>
+      <transition delay="12" name="T6" nservers-x="0.5" type="EXP" x="7.55" y="64.0"/>
+      <transition delay="6" name="T7" nservers-x="0.5" type="EXP" x="18.55" y="66.0"/>
+      <transition delay="6" name="T8" nservers-x="0.5" type="EXP" x="18.55" y="62.0"/>
+      <place name="P3b" x="12.0" y="52.0"/>
+      <transition delay="12" name="T9" nservers-x="0.5" type="EXP" x="8.55" y="48.0"/>
+      <transition delay="6" name="T11" nservers-x="0.5" type="EXP" x="18.55" y="52.0"/>
+      <transition delay="6" name="T12" nservers-x="0.5" type="EXP" x="18.55" y="47.0"/>
+      <place name="P5" x="26.0" y="59.0"/>
+      <transition delay="4" name="T10" nservers-x="0.5" type="EXP" x="21.55" y="44.0"/>
+      <transition delay="4" name="T13" nservers-x="0.5" type="EXP" x="21.55" y="59.0"/>
+      <transition delay="4" name="T14" nservers-x="0.5" type="EXP" x="21.55" y="73.0"/>
+      <place name="P4b" x="26.0" y="36.0"/>
+      <transition delay="12" name="T15" nservers-x="0.5" type="EXP" x="26.55" y="44.0"/>
+      <place name="P4f" x="31.0" y="36.0"/>
+      <transition delay="12" name="T16" nservers-x="0.5" type="EXP" x="29.55" y="32.0"/>
+      <place name="P6" x="36.0" y="59.0"/>
+      <transition delay="6" name="T17" nservers-x="0.5" type="EXP" x="31.55" y="53.0"/>
+      <transition delay="6" name="T18" nservers-x="0.5" type="EXP" x="31.55" y="59.0"/>
+      <place name="P8f" x="42.0" y="41.0"/>
+      <place name="P8b" x="37.0" y="41.0"/>
+      <transition delay="12" name="T19" nservers-x="0.5" type="EXP" x="40.55" y="32.0"/>
+      <place name="P7f" x="47.0" y="59.0"/>
+      <place name="P7b" x="47.0" y="55.0"/>
+      <transition delay="6" name="T20" nservers-x="0.5" type="EXP" x="43.55" y="47.0"/>
+      <transition delay="6" name="T21" nservers-x="0.5" type="EXP" x="36.55" y="47.0"/>
+      <transition delay="6" name="T22" nservers-x="0.5" type="EXP" x="40.55" y="59.0"/>
+      <transition delay="6" name="T23" nservers-x="0.5" type="EXP" x="39.55" y="47.0"/>
+      <place name="P28b" x="68.0" y="54.0"/>
+      <place name="P28f" x="68.0" y="59.0"/>
+      <transition delay="4" name="T24" nservers-x="0.5" type="EXP" x="54.55" y="59.0"/>
+      <transition delay="4" name="T25" nservers-x="0.5" type="EXP" x="54.55" y="55.0"/>
+      <place name="P29" x="57.0" y="46.0"/>
+      <place name="P9f" x="56.0" y="35.0"/>
+      <place name="P9b" x="51.0" y="35.0"/>
+      <transition delay="6" name="T26" nservers-x="0.5" type="EXP" x="51.55" y="42.0"/>
+      <place name="P10f" x="65.0" y="35.0"/>
+      <transition delay="4" name="T27" nservers-x="0.5" type="EXP" x="54.55" y="52.0"/>
+      <place name="P12f" x="54.0" y="76.0"/>
+      <place name="P12b" x="46.0" y="75.0"/>
+      <transition delay="4" name="T28" nservers-x="0.5" type="EXP" x="41.55" y="66.0"/>
+      <transition delay="4" name="T29" nservers-x="0.5" type="EXP" x="49.55" y="66.0"/>
+      <transition delay="4" name="T30" nservers-x="0.5" type="EXP" x="59.55" y="66.0"/>
+      <transition delay="4" name="T31" nservers-x="0.5" type="EXP" x="64.55" y="66.0"/>
+      <transition delay="12" name="T32" nservers-x="0.5" type="EXP" x="54.55" y="31.0"/>
+      <transition delay="12" name="T33" nservers-x="0.5" type="EXP" x="61.55" y="35.0"/>
+      <place name="P10b" x="65.0" y="39.0"/>
+      <transition delay="12" name="T34" nservers-x="0.5" type="EXP" x="61.55" y="41.0"/>
+      <transition delay="6" name="T35" nservers-x="0.5" type="EXP" x="56.55" y="42.0"/>
+      <transition delay="4" name="T36" nservers-x="0.5" type="EXP" x="59.55" y="57.0"/>
+      <transition delay="4" name="T37" nservers-x="0.5" type="EXP" x="57.55" y="62.0"/>
+      <place name="P15f" x="68.0" y="78.0"/>
+      <place name="P15b" x="68.0" y="85.0"/>
+      <place name="P13f" x="54.0" y="89.0"/>
+      <place name="P13b" x="48.0" y="89.0"/>
+      <transition delay="6" name="T38" nservers-x="0.5" rotation="4.71238898038469" type="EXP" x="44.55" y="83.0"/>
+      <transition delay="6" name="T39" nservers-x="0.5" type="EXP" x="48.55" y="83.0"/>
+      <transition delay="12" name="T40" nservers-x="0.5" rotation="4.71238898038469" type="EXP" x="51.55" y="95.0"/>
+      <transition delay="6" name="T41" nservers-x="0.5" type="EXP" x="52.55" y="85.0"/>
+      <transition delay="6" name="T42" nservers-x="0.5" type="EXP" x="61.55" y="89.0"/>
+      <transition delay="6" name="T43" nservers-x="0.5" type="EXP" x="60.55" y="76.0"/>
+      <transition delay="6" name="T44" nservers-x="0.5" type="EXP" x="60.55" y="80.0"/>
+      <transition delay="9999" name="T45" nservers-x="0.5" rotation="4.71238898038469" type="EXP" x="71.55" y="70.0"/>
+    </nodes>
+    <edges>
+      <arc head="T0" kind="INPUT" tail="P0"/>
+      <arc head="P1f" kind="OUTPUT" tail="T0"/>
+      <arc head="T1" kind="INPUT" tail="P0"/>
+      <arc head="P2f" kind="OUTPUT" tail="T1"/>
+      <arc head="T2" kind="INPUT" tail="P0"/>
+      <arc head="P3f" kind="OUTPUT" tail="T2"/>
+      <arc head="T3" kind="INPUT" tail="P1f"/>
+      <arc head="P1b" kind="OUTPUT" tail="T3"/>
+      <arc head="T4" kind="INPUT" tail="P1b"/>
+      <arc head="P2f" kind="OUTPUT" tail="T4"/>
+      <arc head="T5" kind="INPUT" tail="P1b"/>
+      <arc head="P3f" kind="OUTPUT" tail="T5"/>
+      <arc head="T6" kind="INPUT" tail="P2f"/>
+      <arc head="P2b" kind="OUTPUT" tail="T6"/>
+      <arc head="T7" kind="INPUT" tail="P2b"/>
+      <arc head="P1f" kind="OUTPUT" tail="T7"/>
+      <arc head="T8" kind="INPUT" tail="P2b"/>
+      <arc head="P3f" kind="OUTPUT" tail="T8"/>
+      <arc head="T9" kind="INPUT" tail="P3f"/>
+      <arc head="P3b" kind="OUTPUT" tail="T9"/>
+      <arc head="T12" kind="INPUT" tail="P3b"/>
+      <arc head="P2f" kind="OUTPUT" tail="T12"/>
+      <arc head="T11" kind="INPUT" tail="P3b"/>
+      <arc head="P1f" kind="OUTPUT" tail="T11"/>
+      <arc head="T10" kind="INPUT" tail="P5"/>
+      <arc head="P3f" kind="OUTPUT" tail="T10"/>
+      <arc head="T13" kind="INPUT" tail="P5"/>
+      <arc head="P2f" kind="OUTPUT" tail="T13"/>
+      <arc head="T14" kind="INPUT" tail="P5"/>
+      <arc head="P1f" kind="OUTPUT" tail="T14"/>
+      <arc head="T15" kind="INPUT" tail="P4b"/>
+      <arc head="P5" kind="OUTPUT" tail="T15"/>
+      <arc head="T16" kind="INPUT" tail="P4f"/>
+      <arc head="P4b" kind="OUTPUT" tail="T16"/>
+      <arc head="T17" kind="INPUT" tail="P6"/>
+      <arc head="P4f" kind="OUTPUT" tail="T17"/>
+      <arc head="T18" kind="INPUT" tail="P6"/>
+      <arc head="P5" kind="OUTPUT" tail="T18"/>
+      <arc head="T19" kind="INPUT" tail="P8f"/>
+      <arc head="P8b" kind="OUTPUT" tail="T19"/>
+      <arc head="T20" kind="INPUT" tail="P7f"/>
+      <arc head="P8f" kind="OUTPUT" tail="T20"/>
+      <arc head="T21" kind="INPUT" tail="P8b"/>
+      <arc head="P6" kind="OUTPUT" tail="T21"/>
+      <arc head="T22" kind="INPUT" tail="P7f"/>
+      <arc head="P6" kind="OUTPUT" tail="T22"/>
+      <arc head="T23" kind="INPUT" tail="P8b"/>
+      <arc head="P7b" kind="OUTPUT" tail="T23"/>
+      <arc head="T25" kind="INPUT" tail="P7b"/>
+      <arc head="P28b" kind="OUTPUT" tail="T25"/>
+      <arc head="T24" kind="INPUT" tail="P28f"/>
+      <arc head="P7f" kind="OUTPUT" tail="T24"/>
+      <arc head="T27" kind="INPUT" tail="P7b"/>
+      <arc head="P29" kind="OUTPUT" tail="T27"/>
+      <arc head="T28" kind="INPUT" tail="P7b"/>
+      <arc head="P12b" kind="OUTPUT" tail="T28"/>
+      <arc head="T29" kind="INPUT" tail="P12f"/>
+      <arc head="P7f" kind="OUTPUT" tail="T29"/>
+      <arc head="T30" kind="INPUT" tail="P12f"/>
+      <arc head="P28b" kind="OUTPUT" tail="T30"/>
+      <arc head="T31" kind="INPUT" tail="P12f"/>
+      <arc head="P29" kind="OUTPUT" tail="T31"/>
+      <arc head="T26" kind="INPUT" tail="P29"/>
+      <arc head="P9b" kind="OUTPUT" tail="T26"/>
+      <arc head="T32" kind="INPUT" tail="P9b"/>
+      <arc head="P9f" kind="OUTPUT" tail="T32"/>
+      <arc head="T33" kind="INPUT" tail="P9f"/>
+      <arc head="P10f" kind="OUTPUT" tail="T33"/>
+      <arc head="T34" kind="INPUT" tail="P10b"/>
+      <arc head="P9b" kind="OUTPUT" tail="T34"/>
+      <arc head="T35" kind="INPUT" tail="P29"/>
+      <arc head="P10f" kind="OUTPUT" tail="T35"/>
+      <arc head="T36" kind="INPUT" tail="P28f"/>
+      <arc head="P29" kind="OUTPUT" tail="T36"/>
+      <arc head="T37" kind="INPUT" tail="P28f"/>
+      <arc head="P12b" kind="OUTPUT" tail="T37"/>
+      <arc head="T38" kind="INPUT" tail="P12b"/>
+      <arc head="P13b" kind="OUTPUT" tail="T38"/>
+      <arc head="T39" kind="INPUT" tail="P12b"/>
+      <arc head="P15b" kind="OUTPUT" tail="T39"/>
+      <arc head="T40" kind="INPUT" tail="P13b"/>
+      <arc head="P13f" kind="OUTPUT" tail="T40"/>
+      <arc head="T41" kind="INPUT" tail="P13f"/>
+      <arc head="P12f" kind="OUTPUT" tail="T41"/>
+      <arc head="T42" kind="INPUT" tail="P13f"/>
+      <arc head="P15b" kind="OUTPUT" tail="T42"/>
+      <arc head="T43" kind="INPUT" tail="P15f"/>
+      <arc head="P12f" kind="OUTPUT" tail="T43"/>
+      <arc head="T44" kind="INPUT" tail="P15f"/>
+      <arc head="P13b" kind="OUTPUT" tail="T44"/>
+      <arc head="T45" kind="INPUT" tail="P15b"/>
+      <arc head="P28f" kind="OUTPUT" tail="T45"/>
+    </edges>
+  </gspn>
+  <measures gspn-name="PetriNet" name="Measures" simplified-UI="false">
+    <assignments/>
+    <greatspn/>
+    <formulas>
+      <formula comment="Basic statistics of the toolchain execution." language="STAT"/>
+      <formula comment="All the basic Petri net measures" language="ALL"/>
+    </formulas>
+  </measures>
+</project>
