@@ -3,7 +3,11 @@
 Tommaso Peletta
 Jonathan Lo
 
+Read xx for more information about the project
+
 # Prerequisites
 
 Install GreatSPN by following the instructions in http://www.di.unito.it/~greatspn/index.html
+
+
 
